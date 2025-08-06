@@ -21,10 +21,11 @@ Each template includes **AI-powered prompts** to accelerate your workflow. Stop 
 
 ### Get the Templates (2 minutes)
 
-#### Option 1: Google Docs (Recommended for most teams)
-- [Feature Definition Template](https://docs.google.com/document/d/1Mw11NHEW-Mg9vxSUI0ZSeL56rcB1L3xc02XeLJXRodg/edit?usp=sharing)
-- [Software Architecture Template](https://docs.google.com/document/d/1QLyj5UjErclv9mEDR8vJL4O2chYJ_WCuGMczHD4NwHQ/edit?usp=sharing)
-- [Feature Development Template](https://docs.google.com/document/d/1HfRFrOa5YShJk7XnctxF2a_jEKZ9qi_vuIr486SRVeo/edit?usp=sharing)
+| #   | Template Name             | Document Link                                                                                                                           | GPT Assistant Link                                                                                                                                     |
+|-----|---------------------------|------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1️⃣ | Feature Definition        | [Open Document](https://docs.google.com/document/d/1Mw11NHEW-Mg9vxSUI0ZSeL56rcB1L3xc02XeLJXRodg/edit?usp=sharing)                        | [Feature Definition GPT]()                                                                                                                             |
+| 2️⃣ | Software Architecture     | [Open Document](https://docs.google.com/document/d/1QLyj5UjErclv9mEDR8vJL4O2chYJ_WCuGMczHD4NwHQ/edit?usp=sharing)                        | [Software Architecture GPT](https://chatgpt.com/g/g-6893aa591a888191b0616de95dde2a3e-software-architecture-specialist)                                |
+| 3️⃣ | Feature Development       | [Open Document](https://docs.google.com/document/d/1HfRFrOa5YShJk7XnctxF2a_jEKZ9qi_vuIr486SRVeo/edit?usp=sharing)                        | [Feature Development GPT]()                                                                                                                             |                                                                                                                            |
 
 1. Click the link above
 2. Right-click any template → "Make a copy"
@@ -51,13 +52,9 @@ Each template includes **AI-powered prompts** to accelerate your workflow. Stop 
 
 ## 🤖 AI-Powered Development
 
-Each template section includes specific prompts for AI assistance:
+Each template section includes specific GPT's for AI assistance:
 
-```example
-Section: Database Design
-Prompt: "You are a Database Architect. Based on these requirements: [paste from template]
-Generate: 1) Entity Relationship Diagram 2) SQL Schema 3) Indexing Strategy"
-```
+
 
 **Full AI Prompts Collection:** [Access here]([INSIRA LINK DO DRIVE DOS PROMPTS AQUI])
 
