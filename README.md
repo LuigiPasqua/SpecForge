@@ -20,13 +20,14 @@ Each template includes **AI-powered prompts** to accelerate your workflow. Stop 
 ## 🚀 Quick Start
 
 ### Get the Templates (2 minutes)
+- 🤖 Each template section includes specific GPT's for AI assistance.
+- 🚨 Each template becomes the input of the next one.
 
 | #   | Template Name             | Document Link                                                                                                                           | GPT Assistant Link                                                                                                                                     |
 |-----|---------------------------|------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1️⃣ | Feature Definition        | [Open Document](https://docs.google.com/document/d/1Mw11NHEW-Mg9vxSUI0ZSeL56rcB1L3xc02XeLJXRodg/edit?usp=sharing)                        | [Feature Definition GPT]()                                                                                                                             |
+| 1️⃣ | Feature Definition        | [Open Document](https://docs.google.com/document/d/1Mw11NHEW-Mg9vxSUI0ZSeL56rcB1L3xc02XeLJXRodg/edit?usp=sharing)                        | [Feature Definition GPT](https://chatgpt.com/g/g-6893b0388f908191a55dd02bafbf01b4-feat-definition)                                                                                                                             |
 | 2️⃣ | Software Architecture     | [Open Document](https://docs.google.com/document/d/1QLyj5UjErclv9mEDR8vJL4O2chYJ_WCuGMczHD4NwHQ/edit?usp=sharing)                        | [Software Architecture GPT](https://chatgpt.com/g/g-6893aa591a888191b0616de95dde2a3e-software-architecture-specialist)                                |
-| 3️⃣ | Feature Development       | [Open Document](https://docs.google.com/document/d/1HfRFrOa5YShJk7XnctxF2a_jEKZ9qi_vuIr486SRVeo/edit?usp=sharing)                        | [Feature Development GPT]()                                                                                                                             |                                                                                                                            |
-
+| 3️⃣ | Feature Development       | [Open Document](https://docs.google.com/document/d/1HfRFrOa5YShJk7XnctxF2a_jEKZ9qi_vuIr486SRVeo/edit?usp=sharing)                        | [Feature Development GPT](https://chatgpt.com/g/g-6893acd40da881919e20cd936a03b328-feat-developer-assistent)                                                                                                                             |                                                                                                                            |
 1. Click the link above
 2. Right-click any template → "Make a copy"
 3. Start building!
@@ -50,14 +51,6 @@ Each template includes **AI-powered prompts** to accelerate your workflow. Stop 
 **Users:** Development Teams, Engineers, QA  
 **Output:** Technical specifications, database schemas, API contracts, test plans  
 
-## 🤖 AI-Powered Development
-
-Each template section includes specific GPT's for AI assistance:
-
-
-
-**Full AI Prompts Collection:** [Access here]([INSIRA LINK DO DRIVE DOS PROMPTS AQUI])
-
 ## 💡 When to Use SpecForge?
 
 - **Starting a new project** - Get it right from day one
@@ -77,9 +70,9 @@ Each template section includes specific GPT's for AI assistance:
 
 ```mermaid
 graph LR
-    A[Business Need] --> B[Feature Definition]
+    A[Need To Build A Product] --> B[Feature Definition]
     B --> C[Architecture Design]
-    C --> D[Development Specs]
+    C --> D[Feature Development]
     D --> E[Implementation]
     
     AI[AI Prompts] --> B
@@ -102,8 +95,10 @@ graph LR
 
 - **Discussions:** [GitHub Discussions](https://github.com/[SEU-USERNAME]/specforge/discussions)
 - **Issues:** [GitHub Issues](https://github.com/[SEU-USERNAME]/specforge/issues)
-- **LinkedIn:** [Follow updates]([SEU-LINKEDIN])
-- **Twitter/X:** [@[SEU-TWITTER]]([SEU-TWITTER])
+
+- ## 🗣️ Social Media
+- **LinkedIn:** [Luigi Pasqua](https://www.linkedin.com/in/luigi-pasqua-6b639012a)
+- **Twitter/X:** [@luigipasquaofc](https://x.com/luigipasquaofc)
 
 ## 📜 License
 
